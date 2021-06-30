@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HWLowy
-- 👀 I’m interested in AI (and AGI) for advancing human conciousness - through coaching learners to see and understand there thinking, 
-- and no longer be held back by it...opening to innate human potential. Opening the door to higher levels of conciousness and potential
-- looks critical to me as we embark, as a species, into this exponential age we are currently expeiencing.
+- 👀 I’m interested in AI (and AGI) for advancing human conciousness - through coaching learners to see and understand there thinking, and no longer be held back by it...opening to innate human potential. Opening the door to higher levels of conciousness and potential looks critical to me as we embark, as a species, into this exponential age we are currently expeiencing.
 
 - 🌱 I’m currently learning ...anything and everything related to AI - computer science, advanced mathematics, rudimentary data science, algorithms...
 
